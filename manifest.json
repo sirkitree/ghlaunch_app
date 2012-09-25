@@ -1,0 +1,14 @@
+{
+  "name": "GitHub Launcher",
+  "version": "1",
+  "icons": { "24": "fluidicon.png", "128": "fluidicon.png" },
+  "app": {
+    "urls": [
+      "http://github.com/launch"
+    ],
+    "launch": {
+      "web_url": "http://github.com/launch"
+    }
+  },
+  "manifest_version": 2
+}
